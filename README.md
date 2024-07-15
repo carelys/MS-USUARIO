@@ -57,6 +57,7 @@ Este es un CRUD de usuario implementado en spring boot con una conexión a base 
 	  "username": "testuser",
 	  "password": "user123"
 	}
+```
 
 ### Diagrama de de solución:
 
