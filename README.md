@@ -61,7 +61,8 @@ Este es un CRUD de usuario implementado en spring boot con una conexión a base 
 
 ### Diagrama de de solución:
 
-![MS-User](https://github.com/user-attachments/assets/5be8ebcf-aaad-40a2-b4dc-c4d5abf0df1e)
+![Arquitectura ms-usuario](https://github.com/user-attachments/assets/c1c030d4-56fb-4a1a-b952-54af0a96da3d)
+
 
  
  
