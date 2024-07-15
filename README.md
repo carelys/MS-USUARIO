@@ -16,7 +16,7 @@ Este es un CRUD de usuario implementado en spring boot con una conexión a base 
 ### Instalación:
  
  1. Clona el repositorio:
- `https://github.com/carelys/MS-USUARIO.git
+ https://github.com/carelys/ms-usuario.git
  
  2. Construye el proyecto con maven:
 	```bash
