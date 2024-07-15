@@ -52,16 +52,16 @@ Este es un CRUD de usuario implementado en spring boot con una conexión a base 
 ### Spring Security
  - Obtener token usando el siguiente body
 	
-
+```json
 	{
 	  "username": "testuser",
 	  "password": "user123"
 	}
- 	
+
 ### Diagrama de de solución:
- ![MS-User](https://github.com/user-attachments/assets/a8a85349-523d-4a02-9ebd-b76af1360653)
- 
- 
+
+![MS-User](https://github.com/user-attachments/assets/5be8ebcf-aaad-40a2-b4dc-c4d5abf0df1e)
+
  
  
  
